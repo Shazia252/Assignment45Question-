@@ -1,0 +1,14 @@
+var a = 6;
+var b = 2;
+console.log(a + b);
+var c = 10;
+var d = 2;
+console.log(c - d);
+var addition = 6 + 2;
+console.log("addition", addition);
+var sub = 10 - 2;
+console.log("subtraction $ (sub)");
+var multiplication = 4 * 2;
+console.log("multipilication", multiplication);
+var division = 16 / 2;
+console.log("Division", division);
